@@ -1,0 +1,3 @@
+# Konfigurasi Supabase CLI (opsional bila deploy lewat dashboard)
+[functions.api]
+verify_jwt = false   # aplikasi memakai token sesi sendiri, bukan JWT Supabase Auth
